@@ -25,4 +25,6 @@ Controls:
 Additional:
 	- sensors do nothing currently
 	- requires pygame, and pyserial
-	
+
+Pygame setup:
+    
